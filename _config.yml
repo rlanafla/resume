@@ -51,7 +51,6 @@ content:
     content:
       - layout: left
         title: Company name
-        sub_title: Job title
         description: | # this will include new lines to allow paragraphs
 
   - title: Education
