@@ -19,7 +19,7 @@ website: https://github.com/rlanafla
 darkmode: false
 
 # Social links
-github_username: https://github.com/rlanafla
+github_username: rlanafla
 instagram_username: https://www.instagram.com/rlanafla/
 
 
@@ -35,7 +35,7 @@ instagram_username: https://www.instagram.com/rlanafla/
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  공학 작문 및 발표 수업에서 github로 이력서 작성을 하고 있습니다.
+  공학 작문 및 발표 수업에서 github를 통해 이력서 작성을 하고 있습니다.
 
 content:
   - title: Projects # Title for the section
